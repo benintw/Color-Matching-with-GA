@@ -1,6 +1,6 @@
 A genetic algorithm implementation for evolving image patterns to match target colors.
 
-[color matching ga](animation_20250315_1339.gif)
+![color matching ga](animation_20250315_1339.gif)
 
 This module implements a genetic algorithm that evolves a grid of RGB color values
 to match a target color. Each individual in the population represents a grid of
